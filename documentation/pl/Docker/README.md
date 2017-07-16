@@ -1,4 +1,4 @@
-[<-- Powrót](../../README.md)
+[<-- Powrót](../../../README.md)
 
 ## Docker - dokumentacja
 
@@ -9,4 +9,4 @@
 - [Uruchomienie aplikacji](/documentation/STARTUP.md)
 - [Szczegółowe info](/documentation/INFO.md)
 
-[<-- Powrót](../../README.md)
+[<-- Powrót](../../../README.md)
