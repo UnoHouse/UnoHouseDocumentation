@@ -1,0 +1,2 @@
+[<-- Powrót](README.md)
+#Pomysł

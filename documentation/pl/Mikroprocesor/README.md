@@ -1,4 +1,4 @@
-[<-- Powrót](../../README.md)
+[<-- Powrót](../../../README.md)
 
 ## Mikroprocesor - dokumentacja
 - [Technologie](/documentation/pl/Mikroprocesor/TECH.md)
@@ -9,4 +9,4 @@
 - [Szczegółowe info](/documentation/pl/Mikroprocesor/INFO.md)
 
 
-[<-- Powrót](../../README.md)
+[<-- Powrót](../../../README.md)

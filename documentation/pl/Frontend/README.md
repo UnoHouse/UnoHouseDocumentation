@@ -1,4 +1,4 @@
-[<-- Powrót](../../README.md)
+[<-- Powrót](../../../README.md)
 
 ## Frontend - dokumentacja
 
@@ -9,4 +9,4 @@
 - [Uruchomienie aplikacji](/documentation/pl/Frontend/DOCKER-STARTUP.md)
 - [Szczegółowe info](/documentation/pl/Frontend/INFO.md)
 
-[<-- Powrót](../../README.md)
+[<-- Powrót](../../../README.md)

@@ -1,4 +1,4 @@
-[<-- Powrót](../../README.md)
+[<-- Powrót](../../../README.md)
 
 ## Android - dokumentacja
 - [Technologie](/documentation/pl/Android/TECH.md)
@@ -9,4 +9,4 @@
 - [Szczegółowe info](/documentation/pl/Android/INFO.md)
 
 
-[<-- Powrót](../../README.md)
+[<-- Powrót](../../../README.md)

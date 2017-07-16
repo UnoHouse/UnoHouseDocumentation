@@ -1,12 +1,13 @@
+[<-- Powrót](../../../README.md)
 # Projekt
 
 Rozdział ten opisuje pomysł systemu, jego funkcjonalność, założenia, oraz realizację.
 
 ## Zawartość
-1. [Założenia]()
-2. [Pomysły]()
-3. [Funkcjonalności]()
-3. [Realizacja]()
+1. [Koncepcja](CONCEPT.md)
+2. [Pomysły](IDEA.md)
+3. [Funkcjonalności](FUNCTIONALITIES.md)
+3. [Realizacja](REALIZATION.md)
 
 ### About sensors
 
@@ -30,3 +31,4 @@ Sensors used in this project are simple integrated boards to manage basic parame
 * Light controller - to turn on/off light in room
 * Sprinklers controller,
 * Home flowers sprinklers,
+[<-- Powrót](../../../README.md)

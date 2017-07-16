@@ -1,4 +1,4 @@
-[<-- Powrót](../../README.md)
+[<-- Powrót](../../../README.md)
 
 ## Mikrokontroler - dokumentacja
 - [Technologie](/documentation/pl/Mikrokontroller/TECH.md)
@@ -8,4 +8,4 @@
 - [Uruchomienie aplikacji](/documentation/pl/Mikrokontroller/DOCKER-STARTUP.md)
 - [Szczegółowe info](/documentation/pl/Mikrokontroller/INFO.md)
 
-[<-- Powrót](../../README.md)
+[<-- Powrót](../../../README.md)
