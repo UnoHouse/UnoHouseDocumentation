@@ -1,7 +1,7 @@
 [<-- Powrót](../../../README.md)
 # Projekt
 
-Rozdział ten opisuje pomysł systemu, jego funkcjonalność, założenia, oraz realizację.
+Rozdział ten opisuje zamysł systemu, jego funkcjonalność, założenia, oraz realizację.
 
 ## Zawartość
 1. [Koncepcja](CONCEPT.md)
