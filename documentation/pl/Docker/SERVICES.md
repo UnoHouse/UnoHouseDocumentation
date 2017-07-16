@@ -1,4 +1,4 @@
-[<-- Back to main section](../../../README.md)
+[<-- Powrót](README.md)
 
 # Serwisy
 
@@ -67,3 +67,5 @@ Ports         | 8001
 Log in server | unohousedb
 Username      | unohouse
 Password      | unohouse
+
+[<-- Powrót](README.md)

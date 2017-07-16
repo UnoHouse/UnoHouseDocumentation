@@ -1,3 +1,5 @@
+[<-- Powrót](README.md)
+
 # Instalacja
 
 ## Wymagania
@@ -5,7 +7,6 @@
 - [git](https://git-scm.com/)
 - [composer](https://getcomposer.org/)
 - [docker-compose](https://github.com/docker/compose)
-
 
 ## Uruchomienie
 
@@ -26,3 +27,5 @@ cp docker-compose.dev.yml docker-compose.yml
 docker-compose build
 docker-compose up -d
 ``` 
+
+[<-- Powrót](README.md)

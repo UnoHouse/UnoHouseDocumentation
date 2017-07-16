@@ -1,2 +1,5 @@
 [<-- Powrót](README.md)
-#Pomysł
+
+# Funkcjonalność
+
+[<-- Powrót](README.md)
