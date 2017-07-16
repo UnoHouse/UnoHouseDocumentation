@@ -1,5 +1,5 @@
 [<-- Powrót](README.md)
 
-# Koncepcja
+# Kody
 
 [<-- Powrót](README.md)

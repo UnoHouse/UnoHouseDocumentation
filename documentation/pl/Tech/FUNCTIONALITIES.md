@@ -1,5 +1,5 @@
 [<-- Powrót](README.md)
 
-# Koncepcja
+# Funkcjonalność
 
 [<-- Powrót](README.md)

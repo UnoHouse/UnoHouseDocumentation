@@ -1,5 +1,5 @@
 [<-- Powrót](README.md)
 
-# Koncepcja
+# Standardy, Nomenklatura
 
 [<-- Powrót](README.md)
