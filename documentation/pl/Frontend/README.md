@@ -6,7 +6,7 @@
 - [Instalacja, wymagania](/documentation/pl/Frontend/INSTALL.md)
 - [Serwisy, konfiguracja](/documentation/pl/Frontend/SERVICES.md)
 - [Wprowadzanie zmian](/documentation/pl/Frontend/CUSTOMIZE.md)
-- [Uruchomienie aplikacji](/documentation/pl/Frontend/DOCKER-STARTUP.md)
+- [Uruchomienie aplikacji](/documentation/pl/Frontend/STARTUP.md)
 - [Szczegółowe info](/documentation/pl/Frontend/INFO.md)
 
 [<-- Powrót](../../../README.md)

@@ -5,7 +5,7 @@
 - [Instalacja, wymagania](/documentation/pl/Android/INSTALL.md)
 - [Serwisy, konfiguracja](/documentation/pl/Android/SERVICES.md)
 - [Wprowadzanie zmian](/documentation/pl/Android/CUSTOMIZE.md)
-- [Uruchomienie aplikacji](/documentation/pl/Android/DOCKER-STARTUP.md)
+- [Uruchomienie aplikacji](/documentation/pl/Android/STARTUP.md)
 - [Szczegółowe info](/documentation/pl/Android/INFO.md)
 
 
