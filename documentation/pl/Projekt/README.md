@@ -1,0 +1,1 @@
+# opis dokładny
